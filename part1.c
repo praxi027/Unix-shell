@@ -7,10 +7,6 @@
 
 #define LINE 80 /* Max line length */
 
-/*Ruslan Shikhhamzayev        CWID:12101982
-Part 1
-Project 1*/
-
 int main(void)
 {
     char *args[LINE / 2 + 1]; // command line arguments
