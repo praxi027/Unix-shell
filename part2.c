@@ -7,10 +7,6 @@
 
 #define LINE 80 /* The maximum length command */
 
-/*Ruslan Shikhhamzayev        CWID:12101982
-Part 1
-Project 2*/
-
 char history[10][LINE];
 int curCommand = 0;
 
